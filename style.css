@@ -16,7 +16,7 @@
 
  @media only screen and (max-width: 620px) {
     /* For mobile phones: */
-    .menu, .main, .right, .sectioncontainer, .eventimage {
+    .menu, .main, .right {
       width: 100%;
     }
 }
@@ -207,7 +207,7 @@ marquee{
     margin-right: 10%;
 }
 
-@media (max-width:320px) {
+@media (max-width:340px) {
     .mediaimage {
         width: 310px;
         height: 220px;
