@@ -14,7 +14,7 @@
     box-sizing: border-box;
  }
 
- @media only screen and (max-width: 620px) {
+ @media only screen and (max-width: 600px) {
     /* For mobile phones: */
     .menu, .main, .right {
       width: 100%;
@@ -89,8 +89,8 @@ nav{
 
 
 /*** mobile screen ***/
-/** pc browser min width 310px **/
-@media screen and (max-width: 310px){
+/** pc browser min width 450px **/
+@media screen and (max-width: 450px){
     /*
     #navbar a:not(:first-child){
         display: none;
@@ -192,7 +192,7 @@ marquee{
 #leftmedia {
     background-color: rgb(107, 226, 123);
     max-width: 100%;
-    min-width: 310px;
+    min-width: 360px;
     width: 100%;
     height: fit-content;
     margin-left: -1.8%;
@@ -207,13 +207,9 @@ marquee{
     margin-right: 10%;
 }
 
-@media (max-width:340px) {
+@media screen and (max-width:450px) {
     .mediaimage {
-        width: 310px;
-        height: 220px;
-    }
-    .eventimage {
-        width: 310px;
+        width: 320px;
         height: 220px;
     }
 }
