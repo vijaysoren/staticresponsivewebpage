@@ -207,7 +207,7 @@ marquee{
     margin-right: 10%;
 }
 
-@media (max-width:340px) {
+@media (max-width:320px) {
     .mediaimage {
         width: 310px;
         height: 220px;
