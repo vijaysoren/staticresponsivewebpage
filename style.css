@@ -212,6 +212,10 @@ marquee{
         width: 310px;
         height: 220px;
     }
+    .eventimage {
+        width: 310px;
+        height: 220px;
+    }
 }
 
 iframe {
