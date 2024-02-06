@@ -192,7 +192,7 @@ marquee{
 #leftmedia {
     background-color: rgb(107, 226, 123);
     max-width: 100%;
-    min-width: 360px;
+    min-width: 310px;
     width: 100%;
     height: fit-content;
     margin-left: -1.8%;
