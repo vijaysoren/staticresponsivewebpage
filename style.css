@@ -89,8 +89,8 @@ nav{
 
 
 /*** mobile screen ***/
-/** pc browser min width 450px **/
-@media screen and (max-width: 450px){
+/** pc browser min width 414px **/
+@media screen and (max-width: 414px){
     /*
     #navbar a:not(:first-child){
         display: none;
@@ -207,7 +207,7 @@ marquee{
     margin-right: 10%;
 }
 
-@media (max-width:450px) {
+@media (max-width:414px) {
     .mediaimage {
         width: 320px;
         height: 220px;
